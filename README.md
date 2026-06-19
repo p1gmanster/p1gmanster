@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an Animatronic Head, and possibly a automated gardening robot
-- 🌱 I’m currently learning how to use Arduinos and Electrical Engineering, how to 3D model and Python and Github for Machine Learning
+
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on an Animatronic Head, and possibly a automated gardening robot
+- 🌱 I’m currently learning how to use Arduinos and Electrical Engineering, how to 3D model and Python and Github for Machine Learning
